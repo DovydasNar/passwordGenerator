@@ -17,6 +17,11 @@ body {
 #passwordLength {
   width: 50px;
 }
+
+label,
+input {
+  margin: 10px 0;
+}
 #generate {
   background-color: #4caf50;
   border: none;
